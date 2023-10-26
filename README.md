@@ -59,3 +59,8 @@ cd RolePlayingGame
 
 # Instala las dependencias
 npm install
+```
+
+#Avance Nota
+
+#Nota #2 = 0 (No hay avances)
